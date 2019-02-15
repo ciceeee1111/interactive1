@@ -1,0 +1,31 @@
+
+    /* reset styles */
+    * {
+        margin: 0px; padding: 0px;
+}
+
+/* make the background of the page black */
+body {
+        background: black;
+}
+
+/* flag canvas */
+#canvas {
+        width: 500px;
+        height: 300px;
+        position: relative;
+        background: white;
+}
+
+/* shapes */
+#circle {
+    width: 150px;
+    height: 150px;
+    background: red;
+    border-radius: 75px;
+    
+    /* position the circle in the center of the flag */
+    position: absolute;
+    top: 75px;
+    left: 175px;
+}
