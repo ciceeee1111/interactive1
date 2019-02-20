@@ -55,7 +55,6 @@ body {
   }
 
     #star-five {
-        width: 5px;
         margin: 50px 0;
         position: relative;
         display: block;
@@ -67,7 +66,7 @@ body {
         border-left: 100px solid transparent;
         transform: rotate(35deg);
         top: -300px;
-        left: 120px;
+        left: 200px;
       }
       #star-five:before {
         border-bottom: 80px solid lightyellow;
