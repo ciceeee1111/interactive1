@@ -58,16 +58,16 @@ body {
         margin: 50px 0;
         position: relative;
         display: block;
-        color: red;
+        color: lightyellow;
         width: 0px;
         height: 0px;
         border-right: 100px solid transparent;
-        border-bottom: 70px solid red;
+        border-bottom: 70px solid lightyellow;
         border-left: 100px solid transparent;
         transform: rotate(35deg);
       }
       #star-five:before {
-        border-bottom: 80px solid red;
+        border-bottom: 80px solid lightyellow;
         border-left: 30px solid transparent;
         border-right: 30px solid transparent;
         position: absolute;
