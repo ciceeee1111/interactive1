@@ -55,6 +55,7 @@ body {
   }
 
     #star-five {
+        width: 5px;
         margin: 50px 0;
         position: relative;
         display: block;
@@ -65,6 +66,8 @@ body {
         border-bottom: 70px solid lightyellow;
         border-left: 100px solid transparent;
         transform: rotate(35deg);
+        top: -300px;
+        left: 120px;
       }
       #star-five:before {
         border-bottom: 80px solid lightyellow;
@@ -82,17 +85,18 @@ body {
       #star-five:after {
         position: absolute;
         display: block;
-        color: red;
+        color: lightyellow;
         top: 3px;
         left: -105px;
         width: 0px;
         height: 0px;
         border-right: 100px solid transparent;
-        border-bottom: 70px solid red;
+        border-bottom: 70px solid lightyellow;
         border-left: 100px solid transparent;
         transform: rotate(-70deg);
         content: '';
       }
+    
     
 
 
