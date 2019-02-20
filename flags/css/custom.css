@@ -1,0 +1,104 @@
+
+    /* reset styles */
+    * {
+        margin: 0px; padding: 0px;
+}
+
+/* make the background of the page black */
+body {
+        background: black;
+}
+
+/* flag canvas */
+#canvas {
+        width: 500px;
+        height: 300px;
+        position: relative;
+        background: lightcoral;
+}
+
+/* shapes */
+
+
+  #circle {
+    width: 150px;
+    height: 150px;
+    background: lightyellow;
+    border-radius: 75px;
+    
+    /* position the circle in the center of the flag */
+    position: absolute;
+    top: 75px;
+    left: 50px;
+  }
+  #circle2 {
+    width: 90px;
+    height: 90px;
+    background: lightyellow;
+    border-radius: 75px;
+    
+    /* position the circle in the center of the flag */
+    position: absolute;
+    top: 40px;
+    left: 150px;
+  }
+  #circle3{
+    width: 90px;
+    height: 90px;
+    background: lightyellow;
+    border-radius: 75px;
+    
+    /* position the circle in the center of the flag */
+    position: absolute;
+    top: 160px;
+    left: 150px;
+  }
+
+    #star-five {
+        margin: 50px 0;
+        position: relative;
+        display: block;
+        color: red;
+        width: 0px;
+        height: 0px;
+        border-right: 100px solid transparent;
+        border-bottom: 70px solid red;
+        border-left: 100px solid transparent;
+        transform: rotate(35deg);
+      }
+      #star-five:before {
+        border-bottom: 80px solid red;
+        border-left: 30px solid transparent;
+        border-right: 30px solid transparent;
+        position: absolute;
+        height: 0;
+        width: 0;
+        top: -45px;
+        left: -65px;
+        display: block;
+        content: '';
+        transform: rotate(-35deg);
+      }
+      #star-five:after {
+        position: absolute;
+        display: block;
+        color: red;
+        top: 3px;
+        left: -105px;
+        width: 0px;
+        height: 0px;
+        border-right: 100px solid transparent;
+        border-bottom: 70px solid red;
+        border-left: 100px solid transparent;
+        transform: rotate(-70deg);
+        content: '';
+      }
+    
+
+
+
+
+
+
+
+
