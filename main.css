@@ -3,8 +3,17 @@
     padding: 3px
 }
 
+#title {
+    text-align: center;
+    color: #ffffff;
+    margin: 40px 0 0 0;
+    font-family: fantasy;
+}
+
 body {
+    text-align: center;
     background-color: lightblue;
+    font-family: fantasy;
 }
 
 
