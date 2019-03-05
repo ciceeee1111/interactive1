@@ -1,15 +1,5 @@
+<head><title>Cici's Interview Exercise</title>
+<meta charset="utf-8"/><link rel="stylesheet"type="text/css"href="../css/interview.css"></head>body {
 
-<head>
-  <title>Cici's Interview Exercise</title>
-  <meta charset="utf-8" />
-  <link rel="stylesheet" type="text/css" href="../css/interview.css">
-</head>
-
-
-body {
-    background-color: #587E20;
-    /* The above is called a hex code.
-       There are two other ways to do colors in CSS: rgb and common names */
-    color: pink;
-    font-size: 22px;
-  }
+  background: yellow
+}

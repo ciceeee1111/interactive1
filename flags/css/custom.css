@@ -54,6 +54,9 @@ body {
     left: 150px;
   }
 
+  #star {
+      transform: scale(0.3);
+  }
     #star-five {
         margin: 50px 0;
         position: relative;
@@ -65,13 +68,13 @@ body {
         border-bottom: 70px solid yellow;
         border-left: 100px solid transparent;
         transform: rotate(35deg);
-        top: -270px;
-        left: 270px;
+        top: -1000px;
+        left: -700px;
       }
       #star-five:before {
         border-bottom: 80px solid yellow;
         border-left: 30px solid transparent;
-        border-right: 30px solid transparent;
+        border-right: 30px solid transparent;[]
         position: absolute;
         height: 0;
         width: 0;
