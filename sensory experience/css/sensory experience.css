@@ -1,8 +1,9 @@
 #title {
     text-align: center;
-    color: lightsalmon;
+    color: rgb(107, 24, 10);
     margin: 40px 0 0 0;
     font-family: fantasy;
+
 }
 
 
@@ -12,10 +13,7 @@
 }
 
 body {
-    text-align: center;
-    color: #ffffff;
-    margin: 40px 0 0 0;
-    font-family: fantasy;
+    background: rgb(231, 117, 41)
 }
 
 
@@ -28,6 +26,7 @@ body {
         nudge 5s linear infinite alternate;
     border-radius: 100%;
 }
+
 
 @keyframes pulse {
 
