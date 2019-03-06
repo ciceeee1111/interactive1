@@ -1,5 +1,12 @@
+#title {
+    text-align: center;
+    color: #ffffff;
+    margin: 40px 0 0 0;
+    font-family: fantasy;
+}
+
 body {
-    background-color: rgb(247, 247, 247);
+    align-content: center background-color: rgb(247, 247, 247);
     animation-name: color;
     animation-duration: 4s;
     animation-iteration-count: 1;
@@ -10,31 +17,31 @@ body {
     0% {
         width: 50px;
         height: 50px;
-        background: rgb(185, 126, 224);
+        background: black;
     }
 
     25% {
         width: 300px;
         height: 300px;
-        background-color: rgb(245, 19, 106);
+        background-color: red;
     }
 
     50% {
         width: 70px;
         height: 70px;
-        background: rgb(201, 51, 181);
+        background: brown;
     }
 
     100% {
         width: 200px;
         height: 200px;
-        background-color: rgb(200, 97, 231);
+        background-color: black;
     }
 }
 
 @keyframes color {
     0% {
-        background: rgb(247, 247, 247);
+        background: black;
     }
 
     50% {
@@ -44,7 +51,7 @@ body {
     ;
 
     100% {
-        background: rgb(247, 247, 247);
+        background: black;
     }
 }
 
@@ -100,9 +107,9 @@ body {
 /*you can programmatically set the colors or even background images of these here */
 div#wrapper,
 .smiley div {
-    background-color: #c00;
+    background-color: lightblue;
 }
 
 .smiley {
-    background-color: #ccc;
+    background-color: lightgoldenrodyellow;
 }
