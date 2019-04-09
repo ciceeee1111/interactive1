@@ -74,11 +74,23 @@
       float: left;
   }
 
+  .left img:hover {
+      border-radius: 50%;
+      transition: 1s ease;
+  }
+
+
   .right {
       float: right;
   }
 
-  .left:hover {}
+  .right img:hover {
+      border-radius: 50%;
+      transition: 1s ease;
+  }
+
+
+
 
   .table of contents {
       text-align: center;
