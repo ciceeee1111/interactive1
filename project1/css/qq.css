@@ -1,140 +1,138 @@
-  #canvas {
-      width: 1280px;
+ .intro {
+     font-family: fantasy;
+     text-align: center;
+     color: whitesmoke;
+     font-size: 20pt;
+ }
 
-  }
-
-  .intro {
-      font-family: fantasy;
-      text-align: center;
-      color: whitesmoke;
-      font-size: 20pt;
-  }
-
+ .into {
+     text-align: center;
+ }
 
 
-  body {
+ body {
 
-      color: rgb(255, 242, 126);
-      font-family: 'interstate';
-      text-align: center;
-      font-size: 20pt;
+     color: rgb(255, 242, 126);
+     font-family: 'interstate';
+     text-align: center;
+     font-size: 20pt;
 
-  }
+ }
 
-  body {
-      background: rgb(88, 153, 250);
-      background opacity: 60%;
-  }
+ body {
+     background: rgb(88, 153, 250);
+     background opacity: 60%;
+ }
 
-  a:visited {
-      color: rgb(255, 255, 255);
-  }
+ a:visited {
+     color: rgb(255, 255, 255);
+ }
 
 
-  a {
-      color: yellow;
-  }
+ a {
+     color: yellow;
+ }
 
-  a:hover {
-      color: black
-  }
+ a:hover {
+     color: black
+ }
 
-  #title {
-      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-      color: rgb(255, 200, 80);
-      text-align: center;
-      font-size: 50px;
+ #title {
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     color: rgb(255, 200, 80);
+     text-align: center;
+     font-size: 50px;
 
 
 
-  }
+ }
 
-  #title1 {
-      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-      text-align: center;
-      color: burlywood;
-  }
+ #title1 {
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+     color: burlywood;
+ }
 
-  #title1:hover {
-      color: white;
-  }
+ #title1:hover {
+     color: white;
+ }
 
-  #title2 {
-      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-      text-align: center;
-      color: burlywood;
+ #title2 {
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+     color: burlywood;
 
-  }
+ }
 
-  #title2:hover {
-      color: aqua;
-  }
+ #title2:hover {
+     color: aqua;
+ }
 
-  .left {
-      float: left;
-  }
+ .left {
+     float: left;
+ }
 
-  .left img:hover {
-      border-radius: 50%;
-      transition: 1s ease;
-  }
+ .left img:hover {
+     border-radius: 50%;
+     transition: 1s ease;
+ }
 
 
-  .right {
-      float: right;
-  }
+ .right {
+     float: right;
+ }
 
-  .right img:hover {
-      border-radius: 50%;
-      transition: 1s ease;
-  }
+ .right img:hover {
+     border-radius: 50%;
+     transition: 1s ease;
+ }
 
 
 
 
-  .table of contents {
-      text-align: center;
-  }
+ .table of contents {
+     text-align: center;
+ }
 
-  .yes {
-      color: blanchedalmond;
-      font-size: 7pt;
-  }
+ .yes {
+     color: blanchedalmond;
+     font-size: 7pt;
+ }
 
-  .yes:hover {
-      color: black;
-  }
+ .yes:hover {
+     color: black;
+ }
 
-  .no {
-      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-      text-align: center;
-      color: aquamarine;
-      font-size: 90pt;
-  }
+ .no {
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+     color: aquamarine;
+     font-size: 90pt;
+ }
 
-  .no:hover {
-      display: block;
-      color: brown;
-  }
+ .no:hover {
+     display: block;
+     color: brown;
+ }
 
-  .fade img {
-      transition: 1s ease;
-  }
+ .fade img {
+     transition: 1s ease;
+ }
 
-  .fade img:hover {
-      border-radius: 50%;
-      transition: 1s ease;
-  }
+ .fade img:hover {
+     border-radius: 50%;
+     transition: 1s ease;
+ }
 
-  .CC {
-      text-align: center;
-  }
+ .CC {
+     text-align: center;
+ }
 
-  .bye {
-      color: azure;
-      font-size: 100pt;
-  }
+ .bye {
+     color: azure;
+     font-size: 100pt;
+ }
 
-  .bye:hover {
-      color: black;
-  }
+ .bye:hover {
+     color: black;
+ }
