@@ -128,3 +128,12 @@
   .CC {
       text-align: center;
   }
+
+  .bye {
+      color: azure;
+      font-size: 100pt;
+  }
+
+  .bye:hover {
+      color: black;
+  }
