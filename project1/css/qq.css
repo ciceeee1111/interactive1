@@ -1,12 +1,25 @@
- .intro {
-     font-family: fantasy;
-     text-align: center;
-     color: whitesmoke;
-     font-size: 20pt;
- }
-
  .into {
      text-align: center;
+
+ }
+
+ .image:hover {
+     color: antiquewhite;
+ }
+
+ .in {
+     width: 40%;
+     text-align: left;
+     font-family: 'interstate';
+     margin: auto;
+ }
+
+ .ic {
+     width: 50%;
+     text-align: left;
+     position: relative;
+     margin: auto;
+
  }
 
 
@@ -14,14 +27,14 @@
 
      color: rgb(255, 242, 126);
      font-family: 'interstate';
-     text-align: center;
+     text-align: left;
      font-size: 20pt;
 
  }
 
  body {
      background: rgb(88, 153, 250);
-     background opacity: 60%;
+     opacity: 60%;
  }
 
  a:visited {
