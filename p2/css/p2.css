@@ -35,11 +35,7 @@
     margin: auto;
 }
 
-.bye {
-    font-family: 'Roboto', sans-serif;
-    font-size: 20px;
-    color: black;
-}
+
 
 .no {
     text-align: center;
@@ -107,14 +103,7 @@
     width: 50%;
 }
 
-.left {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    align-items: center;
 
-}
 
 
 
