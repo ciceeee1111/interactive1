@@ -3,6 +3,21 @@
     margin: auto;
 }
 
+.bye {
+    position: absolute;
+
+    left: 130px;
+    top: -100px;
+}
+
+.left {
+    position: absolute;
+
+    left: 450px;
+    top: 1800px;
+
+}
+
 .full {
     background-color: black;
 
@@ -13,9 +28,10 @@
 }
 
 .header {
-    text-align: left;
+
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
+    width: 900px;
     margin: auto;
 }
 
@@ -103,10 +119,8 @@
 
 
 .intro {
-    text-align: center;
-    font-family: 'Roboto', sans-serif;
-    font-size: 10px;
-    margin-top: auto;
+    width: 500px;
+    margin: auto;
 }
 
 
