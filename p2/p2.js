@@ -197,4 +197,37 @@ $(document).ready(function () {
     $("#z").hover(function () {
         $("#z .empty").toggleClass('full');
     });
+    $("#1").hover(function () {
+        $("#1 .empty").toggleClass('full');
+    });
+    $("#2").hover(function () {
+        $("#2 .empty").toggleClass('full');
+    });
+    $("#3").hover(function () {
+        $("#3 .empty").toggleClass('full');
+    });
+    $("#4").hover(function () {
+        $("#4 .empty").toggleClass('full');
+    });
+    $("#5").hover(function () {
+        $("#5 .empty").toggleClass('full');
+    });
+    $("#6").hover(function () {
+        $("#6 .empty").toggleClass('full');
+    });
+    $("#7").hover(function () {
+        $("#7 .empty").toggleClass('full');
+    });
+    $("#8").hover(function () {
+        $("#8 .empty").toggleClass('full');
+    });
+    $("#9").hover(function () {
+        $("#9 .empty").toggleClass('full');
+    });
+    $("#11").hover(function () {
+        $("#11 .empty").toggleClass('full');
+    });
+    $("#22").hover(function () {
+        $("#22 .empty").toggleClass('full');
+    });
 });

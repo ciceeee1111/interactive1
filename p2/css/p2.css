@@ -127,12 +127,12 @@
 .grid-container {
     display: grid;
     grid-template-columns: repeat(8, 1fr);
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: 10px;
 }
 
 .grid-item {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     text-align: center;
 }
 
@@ -141,7 +141,7 @@
     display: inline-grid;
     grid-template-columns: repeat(4, 20px);
     grid-template-rows: repeat(7, 20px);
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: 10px;
 }
 
@@ -165,7 +165,7 @@
 
 .letter-square {
     background-color: white;
-    border: 1px solid white;
+    border: 1px solid rgb(255, 255, 255);
 
     text-align: center;
 }
@@ -328,20 +328,13 @@
 #sq16 {
     position: absolute;
     height: 30px;
-    width: 30px;
+    width: 50px;
     background-color: rgb(0, 0, 0);
     left: 320px;
     top: 250px;
 }
 
-#sq17 {
-    position: absolute;
-    height: 30px;
-    width: 30px;
-    background-color: rgb(0, 0, 0);
-    left: 320px;
-    top: 280px;
-}
+
 
 #sq18 {
     position: absolute;
